@@ -82,9 +82,7 @@ const options = {
     },
   },
   xaxis: {
-    tickAmount: 6,
-    min: 0,
-    max: 300,
+    tickAmount: 8,
     // decimalsInFloat:   少数部の数を設定
   },
   yaxis: {

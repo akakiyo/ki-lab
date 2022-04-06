@@ -28,7 +28,6 @@ function DisplayChart() {
           )}
         </div>
       </AccordionWrapper>
-
       <Upload setEEGSignals={setEEGSignals} />
     </>
   );
